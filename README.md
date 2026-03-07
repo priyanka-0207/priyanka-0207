@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=priyanka-0207&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 
 - 🌱 I'm currently learning **Data Science & Machine Learning**
 - 👨‍💻 All of my projects are available at [**My Portfolio**](#)
 - 📝 My Resume [**Click here to download**](#)
 - 💬 Ask me about **Data Science, Machine Learning, Data Visualization**
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **priyanka2bhutada@gmail.com**
 
 ---
 
@@ -20,7 +20,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/priyanka-0207)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:priyanka2bhutada@gmail.com)
 
 ---
 
@@ -73,7 +73,7 @@
 ---
 
 <!-- 
-## 📌 Pinned Projects
+ 📌 Pinned Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
