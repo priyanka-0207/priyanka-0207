@@ -18,29 +18,41 @@
 
 <img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-```yaml
-name: Priyanka Bhutada
-located_in: Boston, MA (Open to Relocate)
-current_focus: Data Science & Machine Learning
 
-fields_of_interest:
-  - "Data Science"
-  - "Machine Learning"
-  - "Data Visualization"
-  - "Deep Learning"
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-currently_learning:
-  - "Advanced ML Algorithms"
-  - "NLP & Computer Vision"
+### 🌸 Who Am I?
 
-fun_fact: "I believe data tells the best stories ✨"
-```
+> *A data-driven storyteller turning raw numbers into meaningful insights*
+
+🎓 **Focus:** Data Science & Machine Learning  
+📍 **Location:** Boston, MA *(Open to Relocate)*  
+📫 **Email:** [priyanka2bhutada@gmail.com](mailto:priyanka2bhutada@gmail.com)
+
+🔭 **Interests:**  
+`Data Science` `Machine Learning` `Deep Learning` `Data Visualization` `NLP`
+
+🌱 **Currently Exploring:**  
+`Advanced ML Algorithms` `Computer Vision` `NLP`
+
+💡 *I believe data tells the best stories* ✨
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
+
+</td>
+</tr>
+</table>
 
 <br clear="both" />
 
 - 🌸 I'm currently learning **Data Science & Machine Learning**
 - 👩‍💻 All of my projects are available at [**My Portfolio**](#)
-- 📄 My Resume → [**Click here to download**](#)
+- 📄 My Resume → [**Click here to download**](#https://drive.google.com/file/d/1jitSZLz2RMMIAZtw1YLUw8_mfNrHHhvQ/view?usp=drive_link)
 - 💬 Ask me about **Data Science, Machine Learning, Data Visualization**
 - 📫 Reach me at **priyanka2bhutada@gmail.com**
 - 📍 Based in **Boston, MA** (Open to Relocate)
@@ -87,29 +99,6 @@ fun_fact: "I believe data tells the best stories ✨"
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanka-0207&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=c9a4f5&title_color=c9a4f5&text_color=a8b5d1" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-0207&theme=tokyonight&hide_border=true&ring=c9a4f5&fire=c9a4f5&currStreakLabel=c9a4f5" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-0207&theme=tokyonight&hide_border=true&layout=compact&title_color=c9a4f5" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanka-0207&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 
