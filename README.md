@@ -16,7 +16,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -46,21 +45,17 @@
 </tr>
 </table>
 
-<br clear="both" />
-
-- 🌸 I'm currently learning **Data Science & Machine Learning**
-- 👩‍💻 All of my projects are available at [**My Portfolio**](#)
-- 📄 My Resume → [**Click here to download**](#https://drive.google.com/file/d/1jitSZLz2RMMIAZtw1YLUw8_mfNrHHhvQ/view?usp=drive_link)
-- 💬 Ask me about **Data Science, Machine Learning, Data Visualization**
-- 📫 Reach me at **priyanka2bhutada@gmail.com**
-- 📍 Based in **Boston, MA** (Open to Relocate)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/👩‍💻_Portfolio-Check_My_Work-c9a4f5?style=for-the-badge" /></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1jitSZLz2RMMIAZtw1YLUw8_mfNrHHhvQ/view?usp=drive_link"><img src="https://img.shields.io/badge/📄_Resume-Download_Here-a78bfa?style=for-the-badge" /></a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me:
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/priyanka-bhutada/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/priyanka-0207"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="mailto:priyanka2bhutada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
