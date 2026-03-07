@@ -16,8 +16,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 
 <table align="center">
 <tr>
