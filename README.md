@@ -46,7 +46,7 @@
 </table>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/👩‍💻_Portfolio-Check_My_Work-[c9a4f5?style=for-the-badge](https://my-awesome-rag-showcase.lovable.app/)" /></a>&nbsp;
+  <a href="https://my-awesome-rag-showcase.lovable.app/"><img src="https://img.shields.io/badge/👩‍💻_Portfolio-Check_My_Work-c9a4f5?style=for-the-badge" /></a>&nbsp;
   <a href="https://drive.google.com/file/d/1jitSZLz2RMMIAZtw1YLUw8_mfNrHHhvQ/view?usp=drive_link"><img src="https://img.shields.io/badge/📄_Resume-Download_Here-a78bfa?style=for-the-badge" /></a>
 </p>
 
